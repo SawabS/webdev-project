@@ -2,7 +2,7 @@
 
 > **Private Repository for Web Engineering Class Project**
 
-This repository contains the classwork for our **Web Engineering** course project for the year 2024. This is a collaborative project between **Sawab Aziz Hussein**, **Mohamed Haitham Rabee'**, and under the supervision of **Dr. Goran Wnis Hamaali**.
+This repository contains the classwork for our **Web Engineering** course project for the year 2024. This is a collaborative project between **Sawab Aziz**, **Mohamed Haitham**, and **Muhammed Sherzad** under the supervision of **Dr. Goran Wnis Hamaali**.
 
 ## 📚 Project Overview
 
@@ -36,12 +36,9 @@ The goal of this project is to design and develop a simple and functional websit
 ## 👥 Team Members
 
 - **Sawab Aziz Hussein**: Frontend Development + JavaScript
+- **Muhammed Sherzad**: Tasks will be assigned soon
 - **Mohamed Haitham Rabee'**: Backend & JavaScript Development
 - **Dr. Goran Wnis Hamaali**: Project Supervisor
-
-## 🔐 Private Access
-
-Since this repository is private, only the project members have access. If there are any issues or changes needed, feel free to reach out via our communication channels (e.g., email, class forum).
 
 ---
 
