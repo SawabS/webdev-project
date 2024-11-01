@@ -18,11 +18,11 @@ The goal of this project is to design and develop a simple and functional websit
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/SawabS/webdev.git
+   git clone https://github.com/SawabS/webdev-project.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd webdev
+   cd webdev-project
    ```
 3. **Open `index.html`** in your preferred browser to view the website:
    - Optionally, use a local server like `Live Server` (VSCode extension) for a better development experience.
