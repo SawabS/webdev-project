@@ -1,6 +1,6 @@
 # 🖥️ WebDev Class Project (2024) 
 
-> **Private Repository for Web Engineering Class Project**
+> **The Repository for Web Engineering Class Project**
 
 This repository contains the classwork for our **Web Engineering** course project for the year 2024. This is a collaborative project between **Sawab Aziz**, **Mohamed Haitham**, and **Muhammed Sherzad** under the supervision of **Dr. Goran Wnis Hamaali**.
 
