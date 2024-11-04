@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     font-family: Arial;
-    background: linear-gradient(to left, #5ce1e6, #8a5afe);
+    background: linear-gradient(to right, #5ce1e6, #8a5afe);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -17,14 +17,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    position: absolute;
+    position: fixed;
     background-color: white;
     box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.4);
-    margin: 20px 10px;
     width: 350px;
-    height: 400px;
+    height: 380px;
     border-radius: 5%;
-    transform: translate(10%, 0%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .inputbox {
