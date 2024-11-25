@@ -35,9 +35,9 @@ The goal of this project is to design and develop a simple and functional websit
 
 ## 👥 Team Members
 
-- **Sawab Aziz Hussein**: Frontend Development + JavaScript
-- **Muhammed Sherzad**: Tasks will be assigned soon
-- **Mohamed Haitham Rabee'**: Backend & JavaScript Development
+- **Sawab Aziz Hussein**: Front-end
+- **Muhammed Sherzad**: Front-end
+- **Mohamed Haitham Rabee'**: Back-end
 - **Dr. Goran Wnis Hamaali**: Project Supervisor
 
 ---
